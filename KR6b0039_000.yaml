@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0039/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 一切智光明仙人慈心因緣不食肉經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0183.xml
+    old_id: T03n0183
+hash: sha256:ec83cc7b87b1501d16903dcff3bd3cce02c5d85fdcae88f329ccafc96a0c037f

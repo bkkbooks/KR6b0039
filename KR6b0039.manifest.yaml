@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6b0039/v1
 canonical_location: https://kanripo.org/bkk/KR6b0039/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 一切智光明仙人慈心因緣不食肉經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6b0039_000.yaml, hash: 'sha256:ec83cc7b87b1501d16903dcff3bd3cce02c5d85fdcae88f329ccafc96a0c037f'}
-  - {seq: 1, filename: KR6b0039_001.yaml, hash: 'sha256:66a26465a3cbd815608832e2cc9eb3ce8c77bd9b859cb4668e88cb805081ed72'}
+  - {seq: 1, filename: KR6b0039_001.yaml, hash: 'sha256:def5ce244bb359a98e38bea5047eed830d996a4676141c050b34ae7b759c1cfc'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6b0039_000.markers.yaml, hash: 'sha256:789a9011eb35cfdb2dc05dac05efcebf1766d2e55186fd6bf4afdcf89884888b'}
-  - {seq: 1, role: markers, filename: assets/KR6b0039_001.markers.yaml, hash: 'sha256:d9adaedde9693450edfd9375f9da9f27faebd5729f63fc1ad207894981846f50'}
+  - {seq: 1, role: markers, filename: assets/KR6b0039_001.markers.yaml, hash: 'sha256:64d9df27c38938531d0a6563ece92e5af50f4164d2852c1e1f8a883060d1b49c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,4 +51,7 @@ table_of_contents:
     肉經'
   type: juan
   level: 1
-hash: sha256:548a115e8fd9ac9cd4e03e2aa51754298b2357827903fbd2c6f243a8e41d8c8d
+hash: sha256:c223646f23e88fbc7f1106cc5ccd2569fe1f352ab20ba2b32692e787d8bedfc2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
